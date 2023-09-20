@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi5\Bai1\bin\Debug\Bai1.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi5\Bai1\obj\Debug\Bai1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi5\Bai1\obj\Debug\Bai1.frmBaiTap1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi5\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi5\Bai1\obj\Debug\Bai1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi5\Bai1\bin\Debug\Bai1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi5\Bai1\bin\Debug\Bai1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi5\Bai1\obj\Debug\Bai1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Buoi5\Bai1\obj\Debug\Bai1.pdb
